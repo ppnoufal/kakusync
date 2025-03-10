@@ -33,5 +33,13 @@
         "vscode-kubernetes.kubectl-path-windows": "C:\\Users\\noufalpa\\.vs-kubernetes\\tools\\kubectl\\kubectl.exe",
         "vscode-kubernetes.minikube-path-windows": "C:\\Users\\noufalpa\\.vs-kubernetes\\tools\\minikube\\windows-amd64\\minikube.exe"
     },
-    "workbench.colorTheme": "Aura Dark"
+    "workbench.colorTheme": "Aura Dark",
+    "github.copilot.editor.enableAutoCompletions": false,
+    "github.copilot.chat.copilotDebugCommand.enabled": false,
+    "github.copilot.chat.reviewSelection.enabled": false,
+    "github.copilot.chat.startDebugging.enabled": false,
+    "github.copilot.chat.edits.suggestRelatedFilesForTests": false,
+    "github.copilot.chat.edits.suggestRelatedFilesFromGitHistory": false,
+    "github.copilot.chat.setupTests.enabled": false,
+    "@azure.deployModel": false
 }
