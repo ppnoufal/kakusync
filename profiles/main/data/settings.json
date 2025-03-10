@@ -6,17 +6,32 @@
     "terminal.integrated.hideOnStartup": "always",
     "breadcrumbs.filePath": "off",
     "editor.minimap.enabled": false,
-    "editor.fontFamily": "Brass Mono Regular",
+    "editor.fontFamily": "Geist Mono",
     "workbench.startupEditor": "none",
     "workbench.layoutControl.enabled": false,
     "security.workspace.trust.untrustedFiles": "open",
     "terminal.integrated.defaultProfile.windows": "PowerShell",
     "python.createEnvironment.trigger": "off",
     "python.defaultInterpreterPath": "C:\\Program Files\\Python39\\python.exe",
-    "editor.fontSize": 15,
+    "editor.fontSize": 14,
     "custom-ui-style.stylesheet": {
     },
     "syncSettings.hostname": "KAKU",
-    "syncSettings.openOutputOnActivity": true,
-    "syncSettings.syncExtensions": true,
+    "syncSettings.openOutputOnActivity": false,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "chat.commandCenter.enabled": false,
+    "workbench.iconTheme": "symbols",
+    "workbench.panel.showLabels": false,
+    "workbench.productIconTheme": "icons-carbon",
+    "vs-kubernetes": {
+        "vscode-kubernetes.helm-path-windows": "C:\\Users\\noufalpa\\.vs-kubernetes\\tools\\helm\\windows-amd64\\helm.exe",
+        "vscode-kubernetes.kubectl-path-windows": "C:\\Users\\noufalpa\\.vs-kubernetes\\tools\\kubectl\\kubectl.exe",
+        "vscode-kubernetes.minikube-path-windows": "C:\\Users\\noufalpa\\.vs-kubernetes\\tools\\minikube\\windows-amd64\\minikube.exe"
+    },
+    "workbench.colorTheme": "Aura Dark"
 }

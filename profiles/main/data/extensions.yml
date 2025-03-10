@@ -1,17 +1,51 @@
 disabled: []
 enabled:
+  - id: antfu.icons-carbon
+    uuid: 659a35e1-7b7f-4b47-822d-0d96fd6e13e7
+  - id: DaltonMenezes.aura-theme
+    uuid: a37a3289-9175-4409-968e-a73e43095912
   - id: GitHub.copilot
     uuid: 23c4aeee-f844-43cd-b53e-1113e483f1a6
   - id: GitHub.copilot-chat
     uuid: 7ec7d6e6-b89e-4cc5-a59b-d6c4d238246f
+  - id: miguelsolorio.symbols
+    uuid: cb54c3b9-1c64-4c4a-8b5a-887270ffe4b6
+  - id: ms-azuretools.azure-dev
+    uuid: fb1e66ca-2967-4d44-998d-bebe4014aadc
+  - id: ms-azuretools.vscode-azure-github-copilot
+    uuid: 785bfdf2-21b9-403b-b81d-ac2bd70bd8b4
+  - id: ms-azuretools.vscode-azureappservice
+    uuid: 42691ca6-18d6-4efe-9e9a-1aabad399d4b
+  - id: ms-azuretools.vscode-azurecontainerapps
+    uuid: d203e26c-b2bf-4184-aeff-1a301f348305
+  - id: ms-azuretools.vscode-azurefunctions
+    uuid: b3b6d55f-76f7-45dd-b1ec-6df13764db03
+  - id: ms-azuretools.vscode-azureresourcegroups
+    uuid: 260e9ed1-160d-4f7e-807c-2eb076ba3846
+  - id: ms-azuretools.vscode-azurestaticwebapps
+    uuid: 9bfcc31d-676d-4028-9963-4c3cb9779673
+  - id: ms-azuretools.vscode-azurestorage
+    uuid: 2a1fdf76-30a9-4155-94f1-73462a7cee3f
+  - id: ms-azuretools.vscode-azurevirtualmachines
+    uuid: 6c14d399-a13b-4542-b439-f521b071cf35
+  - id: ms-azuretools.vscode-cosmosdb
+    uuid: 1ccf280c-6104-4569-a224-ddeda0cb6b88
   - id: ms-azuretools.vscode-docker
     uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
+  - id: ms-dotnettools.vscode-dotnet-runtime
+    uuid: 1aab81a1-b3d9-4aef-976b-577d5d90fe3f
+  - id: ms-kubernetes-tools.vscode-kubernetes-tools
+    uuid: 4837e4f3-1b01-4732-b1a6-daa57ef64cab
   - id: ms-python.debugpy
     uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
   - id: ms-python.python
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
   - id: ms-python.vscode-pylance
     uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
+  - id: ms-vscode.vscode-node-azure-pack
+    uuid: 849943af-364f-4353-ba78-bb5a7f6d37c4
+  - id: redhat.vscode-yaml
+    uuid: 2061917f-f76a-458a-8da9-f162de22b97e
   - id: subframe7536.custom-ui-style
     uuid: 5d260afc-8d75-4731-a881-66951c630816
   - id: zokugun.cron-tasks
