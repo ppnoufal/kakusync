@@ -8,6 +8,8 @@ enabled:
     uuid: 23c4aeee-f844-43cd-b53e-1113e483f1a6
   - id: GitHub.copilot-chat
     uuid: 7ec7d6e6-b89e-4cc5-a59b-d6c4d238246f
+  - id: hediet.vscode-drawio
+    uuid: ea6a6046-2132-421f-a984-664909fcf0b8
   - id: miguelsolorio.symbols
     uuid: cb54c3b9-1c64-4c4a-8b5a-887270ffe4b6
   - id: ms-azuretools.azure-dev
@@ -36,6 +38,14 @@ enabled:
     uuid: 1aab81a1-b3d9-4aef-976b-577d5d90fe3f
   - id: ms-kubernetes-tools.vscode-kubernetes-tools
     uuid: 4837e4f3-1b01-4732-b1a6-daa57ef64cab
+  - id: ms-mssql.data-workspace-vscode
+    uuid: 88e082b7-d289-4c59-bde4-4c61e0280428
+  - id: ms-mssql.mssql
+    uuid: 4bf45e86-a448-4531-8c01-ef33f4536306
+  - id: ms-mssql.sql-bindings-vscode
+    uuid: 48154c8d-77c4-4978-a3a2-807fc5266321
+  - id: ms-mssql.sql-database-projects-vscode
+    uuid: 4e9e1d12-64b6-4573-9203-f601d27de5a3
   - id: ms-python.debugpy
     uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
   - id: ms-python.python

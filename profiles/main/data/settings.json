@@ -41,5 +41,21 @@
     "github.copilot.chat.edits.suggestRelatedFilesForTests": false,
     "github.copilot.chat.edits.suggestRelatedFilesFromGitHistory": false,
     "github.copilot.chat.setupTests.enabled": false,
-    "@azure.deployModel": false
+    "@azure.deployModel": false,
+    "mssql.enableRichExperiences": true,
+    "mssql.connections": [
+        {
+            "authenticationType": "SqlLogin",
+            "connectTimeout": 30,
+            "applicationName": "vscode-mssql",
+            "profileName": "Fin_Dev",
+            "server": "d2wg10132.s10.its.hpecorp.net, 1155",
+            "trustServerCertificate": true,
+            "user": "noufalpa",
+            "password": "",
+            "savePassword": true,
+            "database": "Fin_CTS_DEV_PY"
+        }
+    ],
+    "hediet.vscode-drawio.resizeImages": null
 }
